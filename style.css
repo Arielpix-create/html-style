@@ -2,3 +2,8 @@ header{
  background-color: hsl(133, 86%, 45%);
     color: white;
 }
+.cabecalho-imagem {
+
+    width: 1400px;
+    height: 800px;
+}
